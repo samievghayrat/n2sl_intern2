@@ -15,6 +15,8 @@ https://github.com/Mellanox/gpu_direct_rdma_access?tab=readme-ov-file
 GitHub - Mellanox/gpu_direct_rdma_access: example code for using DC QP for providing RDMA READ and WRITE operations to remote GPU memory
 example code for using DC QP for providing RDMA READ and WRITE operations to remote GPU memory - Mellanox/gpu_direct_rdma_access
 github.com
+
+
 This is a sample related to gpu_direct_rdma.
 By default , the settings related to MLNX_OFED are set, so you can skip them.
 You only need to set the GPU-specific settings.
